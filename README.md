@@ -1,2 +1,2 @@
 # git_lecture
-KB It's your list git특강
+KB It's your life _ git특강
